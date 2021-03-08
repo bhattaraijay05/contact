@@ -21,9 +21,9 @@ Find .apk file above and install it in your android phone😊
 
 IMAGES
 
-![Home](https://github.com/bhattaraijay05/contact/1.png?raw=true)
-![Contact](https://github.com/bhattaraijay05/contact/2.png?raw=true)
-![Detail](https://github.com/bhattaraijay05/contact/3.png?raw=true)
+![Home](https://raw.githubusercontent.com/bhattaraijay05/contact/main/1.png)
+![Contact](https://raw.githubusercontent.com/bhattaraijay05/contact/main/2.png)
+![Detail](https://raw.githubusercontent.com/bhattaraijay05/contact/main/3.png)
 
 ## License
 
