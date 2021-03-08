@@ -8,6 +8,7 @@ Installation from git
 
 ```bash
 git clone https://github.com/bhattaraijay05/contact.git
+cd contact
 yarn install
 yarn start
 ```
@@ -20,9 +21,9 @@ Find .apk file above and install it in your android phone😊
 
 IMAGES
 
-![Home](https://github.com/bhattaraijay05/contact/tree/main/images/2.jpeg)
-![Contact](https://github.com/bhattaraijay05/contact/tree/main/images/1.jpeg)
-![Detail](https://github.com/bhattaraijay05/contact/tree/main/images/3.jpeg)
+![Home](https://github.com/bhattaraijay05/contact/tree/main/images/1.png)
+![Contact](https://github.com/bhattaraijay05/contact/tree/main/images/2.png)
+![Detail](https://github.com/bhattaraijay05/contact/tree/main/images/3.png)
 
 ## License
 
